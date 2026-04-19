@@ -31,11 +31,11 @@ I use data analysis to improve asset performance, optimize maintenance strategie
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="MySQL" 
+    title="SQL (MySQL)"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <img 
