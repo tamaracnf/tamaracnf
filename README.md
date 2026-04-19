@@ -35,7 +35,7 @@ I use data analysis to improve asset performance, optimize maintenance strategie
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" 
+    src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"  
 />
 
 <img 
