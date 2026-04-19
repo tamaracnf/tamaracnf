@@ -62,7 +62,7 @@ I use data analysis to improve asset performance, optimize maintenance strategie
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn-icons-png.flaticon.com/512/732/732220.png" 
- 
+
 />
 
 <br/>
