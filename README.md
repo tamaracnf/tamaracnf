@@ -31,8 +31,8 @@ I use data analysis to improve asset performance, optimize maintenance strategie
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="SQL (MySQL)"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
