@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tâmara Fernandes
+# 👩🏼‍💻 Tâmara Fernandes
 
 Reliability Engineer | Data-Driven Maintenance & Asset Performance
 
