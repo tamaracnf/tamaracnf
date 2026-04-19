@@ -15,6 +15,7 @@ I use data analysis to improve asset performance, optimize maintenance strategie
 - 🗄️ SQL for data extraction and investigation  
 - 📈 KPI tracking, performance analysis, and continuous improvement  
 
+
 ---
 
 ### 🧠 Tools & Technologies
