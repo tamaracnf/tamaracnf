@@ -88,13 +88,13 @@ I use data analysis to improve asset performance, optimize maintenance strategie
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=tamaracnf&show_icons=true&theme=tokyonight" 
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaracnf&theme=tokyonight&layout=compact" 
   />
 </p>
